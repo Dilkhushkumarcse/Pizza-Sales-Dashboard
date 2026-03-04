@@ -1,5 +1,6 @@
+# Dashboard Preview
 
----
+![Hospital Dashboard](1.png)
 
 # Pizza Sales Analysis Dashboard (Excel Project)
 
