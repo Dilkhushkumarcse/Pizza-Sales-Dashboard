@@ -135,24 +135,6 @@ Large size pizzas contribute the maximum revenue share.
 * GETPIVOTDATA
 * Data Cleaning Techniques
 
----
-
-## Dataset Description
-
-The dataset includes:
-
-* Order ID
-* Order Date
-* Order Time
-* Pizza Name
-* Category
-* Size
-* Quantity
-* Unit Price
-* Total Price
-
----
-
 ## Business Insights
 
 1. Focus marketing campaigns on weekends.
