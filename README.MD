@@ -69,32 +69,17 @@ Line chart displaying total orders by hour:
 
 ### 🔹 Sales by Category
 
-Categories analyzed:
-
-* Classic
-* Supreme
-* Veggie
-* Chicken
-
 Classic category contributes the highest revenue and orders.
 
 ---
 
 ### 🔹 Sales by Size
 
-Sizes included:
-
-* Small
-* Medium
-* Large
-* X-Large
-* XX-Large
-
 Large size pizzas contribute the maximum revenue share.
 
 ---
 
-### 🔹 Best & Worst Sellers
+### 🔹 Best Sellers
 
 #### Top 5 Best Sellers
 
@@ -103,16 +88,6 @@ Large size pizzas contribute the maximum revenue share.
 * The Pepperoni Pizza
 * The Thai Chicken Pizza
 * The Barbecue Pizza
-
-#### Bottom 5 Sellers
-
-* The Brie Carre Pizza
-* The Spinach Supreme Pizza
-* The Mediterranean Pizza
-* The Calabrese Pizza
-* The Spinach Pesto Pizza
-
----
 
 ### 🔹 Interactive Features
 
